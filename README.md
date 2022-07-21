@@ -1,0 +1,3 @@
+# Surveying Current Methods of Representation Learning on Image/Video based data
+
+This repository contains the implementation of the methods which we tested as a partial fullfillment of the Practice School - 1 project. We tested two popular algorithms ```Single Shot Multibox Object Detector``` and ```YOLO (You only look once)```. For detailed view of the project please refer to the [project report](https://docs.google.com/document/d/1AKm7zPOjAwtr8jsscsVg2aYanqtrtskpkmU1CmkV0pM/edit?usp=sharing).
