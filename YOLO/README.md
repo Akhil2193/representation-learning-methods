@@ -9,5 +9,3 @@ https://colab.research.google.com/drive/15PACQLT9XtRYcwfZFrmvo7e1CznDwtG7?usp=sh
 
 
 ### Demo
-
-![video](busytrimmed.mp4)
